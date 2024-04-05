@@ -16,12 +16,12 @@ Topia donations appreciated if you feel so inclined:
   <img width="1433" alt="image" src="https://github.com/trevordowdle/hychain-node-runner-gcp/assets/4210581/9eb492aa-3e53-45f4-8283-97aacb8e7dac">
   1.5 You will be prompted to sign up for a free trial or enable billing before you can create a cloud function.  Do so.  Note: The cost to run a node is minimal, and will likely fall within the free tier of good cloud function usage.  I will update the readme with more information on costs once I have more data.
 2.  With billing or your free trial enabled, click "Create Function"
-  2.0 Note: as you are creating your funtion Google may prompt you to enable certain services, enable everything as required.  
-  2.1 Name your function whatever you'd like `node-runner`  
-  2.2 Pick your region to run the function out of `us-central1` is fine.  
-  2.3 Make sure Trigger Https, and Require Authentication are selected.  
-  2.4 Click to toggle or open the `Runtime, build, connections and security settings`
-    2.4.1 Set the memory allocated to 4GB, CPU to 2 and Timeout to 900 (can be adjusted higher if needed but even 600 should suffice for most use cases), Concurrency to 1, autoscaling min to 0 and max to 1.  The Default compute service account should be selected as well.
+    2.0 Note: as you are creating your funtion Google may prompt you to enable certain services, enable everything as required.  
+    2.1 Name your function whatever you'd like `node-runner`  
+    2.2 Pick your region to run the function out of `us-central1` is fine.  
+    2.3 Make sure Trigger Https, and Require Authentication are selected.  
+    2.4 Click to toggle or open the `Runtime, build, connections and security settings`
+        2.4.1 Set the memory allocated to 4GB, CPU to 2 and Timeout to 900 (can be adjusted higher if needed but even 600 should suffice for most use cases), Concurrency to 1, autoscaling min to 0 and max to 1.  The Default compute service account should be selected as well.
   <img width="636" alt="image" src="https://github.com/trevordowdle/hychain-node-runner-gcp/assets/4210581/b4de5b36-e174-48f7-850b-a2dd82f7adf3">
   2.5 Click next to get to the Code section, from here make sure Node.js 20 is selected in the runtime dropdown and change the source code dropdown to zip upload.
   2.6 Set the entry point to `runGuardianNode`
