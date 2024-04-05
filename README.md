@@ -84,9 +84,7 @@ Topia donations appreciated if you feel so inclined: 0xC18Aa275a85fb351342cDde4b
 Feel free to reach out to me in Discord `Nofacetimber` for additional help, or to discuss unique usecases, if you have a lot of keys it may make sense to tweak these settings such as as timeout length and how frequently it runs.  
 
 
-    
-
-
+Thanks to `niftyorca` for the inspiration with his awesome githubs actions solution.
 
 
 
