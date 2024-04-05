@@ -6,15 +6,15 @@ Topia donations appreciated if you feel so inclined:
 0xC18Aa275a85fb351342cDde4b0e66FceFd0ABA18
 
 
-1.  Go to https://console.cloud.google.com/
-  1.1 Make sure you are logged in to your account ( create an account if needed).
-  1.2 In the top left click `Select a project`, create a new project if you don't already have one.
-  <img width="1433" alt="image" src="https://github.com/trevordowdle/hychain-node-runner-gcp/assets/4210581/51f54dc2-f02d-4d8a-9df3-6737874f27ec">
-  1.3 Once created select you project from the drop down.
-  <img width="1105" alt="image" src="https://github.com/trevordowdle/hychain-node-runner-gcp/assets/4210581/ad30e7c8-918c-4c19-8bee-52bd4197194e">
-  1.4 In the search box, type and navigate to Cloud Functions
-  <img width="1433" alt="image" src="https://github.com/trevordowdle/hychain-node-runner-gcp/assets/4210581/9eb492aa-3e53-45f4-8283-97aacb8e7dac">
-  1.5 You will be prompted to sign up for a free trial or enable billing before you can create a cloud function.  Do so.  Note: The cost to run a node is minimal, and will likely fall within the free tier of good cloud function usage.  I will update the readme with more information on costs once I have more data.
+1.  Go to https://console.cloud.google.com  
+    1.1 Make sure you are logged in to your account ( create an account if needed).
+    1.2 In the top left click `Select a project`, create a new project if you don't already have one.
+    <img width="1433" alt="image" src="https://github.com/trevordowdle/hychain-node-runner-gcp/assets/4210581/51f54dc2-f02d-4d8a-9df3-6737874f27ec">
+    1.3 Once created select you project from the drop down.
+    <img width="1105" alt="image" src="https://github.com/trevordowdle/hychain-node-runner-gcp/assets/4210581/ad30e7c8-918c-4c19-8bee-52bd4197194e">
+    1.4 In the search box, type and navigate to Cloud Functions
+    <img width="1433" alt="image" src="https://github.com/trevordowdle/hychain-node-runner-gcp/assets/4210581/9eb492aa-3e53-45f4-8283-97aacb8e7dac">
+    1.5 You will be prompted to sign up for a free trial or enable billing before you can create a cloud function.  Do so.  Note: The cost to run a node is minimal, and will likely fall within the free tier of good cloud function usage.  I will update the readme with more information on costs once I have more data.
 2.  With billing or your free trial enabled, click "Create Function"
     2.0 Note: as you are creating your funtion Google may prompt you to enable certain services, enable everything as required.  
     2.1 Name your function whatever you'd like `node-runner`  
