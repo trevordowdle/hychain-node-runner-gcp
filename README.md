@@ -1,6 +1,6 @@
 # HyChain Node GCP Runner
 
-Setup your Hychain node in the cloud for minimal cost.
+Setup your Hychain node in the cloud using GCP for minimal cost.
 
 Topia donations appreciated if you feel so inclined: 0xC18Aa275a85fb351342cDde4b0e66FceFd0ABA18
 
@@ -19,7 +19,7 @@ Topia donations appreciated if you feel so inclined: 0xC18Aa275a85fb351342cDde4b
     
     <img width="1433" alt="image" src="https://github.com/trevordowdle/hychain-node-runner-gcp/assets/4210581/9eb492aa-3e53-45f4-8283-97aacb8e7dac"> 
     
-    1.5. You will be prompted to sign up for a free trial or enable billing before you can create a cloud function.  Do so.  Note: The cost to run a node is minimal, and will likely fall within the free tier of good cloud function usage.  (I will update the readme with more information on costs once I have more data.)
+    1.5. You will be prompted to sign up for a free trial or enable billing before you can create a cloud function.  Do so.  Note: The cost to run a node is minimal, and will likely fall within the free tier of google cloud function usage.  (I will update the readme with more information on costs once I have more data.)
     
 2.  With billing or your free trial enabled, click "Create Function"  
     2.0. Note: as you are creating your funtion Google may prompt you to enable certain services, enable everything as required.    
