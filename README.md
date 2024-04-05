@@ -39,7 +39,7 @@ Topia donations appreciated if you feel so inclined: 0xC18Aa275a85fb351342cDde4b
     <img width="1057" alt="image" src="https://github.com/trevordowdle/hychain-node-runner-gcp/assets/4210581/fcb773b0-b714-4c9a-980c-3a119e3fe3db">
     
     2.10. At the bottom left click deploy  
-    2.11. Wait for your function to deploy successfully
+    2.11. Wait for your function to deploy successfully  
     2.12. Now we'll want to edit the function to include your `private-key` in the code.  This is the private key that holds your nodes or as reccomended the private key of the wallet you have `delegated` to.  Click `Edit`, then along the top click `Code`.  It will open up with a `index.js` file, on line 8 paste your private key to replace the existing text within the quotes. (note your function source is secure)
 
     <img width="690" alt="image" src="https://github.com/trevordowdle/hychain-node-runner-gcp/assets/4210581/d70446c6-f133-4184-97fc-7ebbdff96f43">
