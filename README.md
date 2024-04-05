@@ -71,8 +71,8 @@ Topia donations appreciated if you feel so inclined: 0xC18Aa275a85fb351342cDde4b
 
     <img width="594" alt="image" src="https://github.com/trevordowdle/hychain-node-runner-gcp/assets/4210581/7cb83cc8-7d4c-4175-9716-5a067c32f342">  
 
-    3.11.  Click create at the bottom
-    3.12.  Once that is created you should be set, you can select your cloud scheduled job from the list and click the `Force Run` option to run it right away, otherwise it will keep running at it's scheduled times (every 6 hours).
+    3.11.  Click create at the bottom  
+    3.12.  Once that is created you should be set, you can select your cloud scheduled job from the list and click the `Force Run` option to run it right away, otherwise it will keep running at it's scheduled times (every 6 hours).  
    
 
 ### Helper URLs to manage your deployment:  
