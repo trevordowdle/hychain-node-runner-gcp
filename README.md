@@ -11,7 +11,7 @@ Topia donations appreciated if you feel so inclined: 0xC18Aa275a85fb351342cDde4b
 
     <img width="1433" alt="image" src="https://github.com/trevordowdle/hychain-node-runner-gcp/assets/4210581/51f54dc2-f02d-4d8a-9df3-6737874f27ec">  
 
-    1.3. Once created select you project from the drop down.
+    1.3. Once created select your project from the drop down.
     
     <img width="1105" alt="image" src="https://github.com/trevordowdle/hychain-node-runner-gcp/assets/4210581/ad30e7c8-918c-4c19-8bee-52bd4197194e"> 
     
