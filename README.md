@@ -90,7 +90,7 @@ Thanks to `niftyorca` for the inspiration with his awesome githubs actions solut
 
 
 ### Note for the claim rewards function you will follow the same steps above with the following changes: 
-
+    2.1. Name your function whatever you'd like but it should help you identify it as your claim rewards function: e.g. `node-claim-rewards`  
     2.7. Set the entry point to `claimNodeRewards`  
     2.9. Upload zip file - The zip file you need to upload is called `function-source-claim-rewards.zip` and is included with this github repo you can click into it and download it directly from github.
     3.3.  Your choice here, you can keep frequency blank and just trigger the Cloud Scheduler manually (using "Force Run") every time you'd like to claim, or say you want to claim once a month, you can put the frequency at `0 0 1 * *` to run it at the beginning of each month. 
