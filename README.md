@@ -41,7 +41,8 @@ Topia donations appreciated if you feel so inclined: 0xC18Aa275a85fb351342cDde4b
     2.10. At the bottom left click deploy  
     2.11. Wait for your function to deploy successfully  
     2.12. Now we'll want to edit the function to include your `private-key` in the code.  This is the private key that holds your nodes or as reccomended the private key of the wallet you have `delegated` to.  Click `Edit`, then along the top click `Code`.  It will open up with a `index.js` file, on line 8 paste your private key to replace the existing text within the quotes. (note your function source is secure)
-        2.12.a. Note: the source code has since been updated, in the next line below you will enter your public wallet address, it will need to be the public wallet that actually owns your node keys.  This public address is used to log how many rewards you have earned each time your function is called.  (It will show up in your function logs so you can stay up to date on how many rewards you've earned)
+    
+    2.12.a. Note: the source code has since been updated, in the next line below you will enter your public wallet address, it will need to be the public wallet that actually owns your node keys.  This public address is used to log how many rewards you have earned each time your function is called.  (It will show up in your function logs so you can stay up to date on how many rewards you've earned)
 
     <img width="690" alt="image" src="https://github.com/trevordowdle/hychain-node-runner-gcp/assets/4210581/d70446c6-f133-4184-97fc-7ebbdff96f43">
 
