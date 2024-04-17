@@ -68,7 +68,7 @@ Topia donations appreciated if you feel so inclined: 0xC18Aa275a85fb351342cDde4b
     3.6. Select `Http` as the target type.  
     3.7. Paste in the URL you copied in step `2.12.`, if you need to get the url again navigate to https://console.cloud.google.com/functions, click into your function from the list and from there you should be able to copy your function url.  
     3.8.  Http method should be post.  
-    3.9.  Auth Header Add OIDC token
+    3.9.  Auth Header Add OIDC token  
     3.10. Under Service Account select `App Engine default service account`
 
     <img width="594" alt="image" src="https://github.com/trevordowdle/hychain-node-runner-gcp/assets/4210581/7cb83cc8-7d4c-4175-9716-5a067c32f342">  
