@@ -34,7 +34,7 @@ Topia donations appreciated if you feel so inclined: 0xC18Aa275a85fb351342cDde4b
     2.6. Click next to get to the Code section, from here make sure Node.js 20 is selected in the runtime dropdown and change the source code dropdown to zip upload.  
     2.7. Set the entry point to `runGuardianNode`  
     2.8. Select a destination bucket (doesn't matter where), create a destination bucket if you don't already have one.  
-    2.9. Upload zip file - The zip file you need to upload is called `function-source.zip` and is included with this github repo you can click into it and download it directly from github.
+    2.9. Upload zip file - The zip file you need to upload is called `function-source-run-node.zip` and is included with this github repo you can click into it and download it directly from github.
     
     <img width="1057" alt="image" src="https://github.com/trevordowdle/hychain-node-runner-gcp/assets/4210581/fcb773b0-b714-4c9a-980c-3a119e3fe3db">
     
